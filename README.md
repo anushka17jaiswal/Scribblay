@@ -11,4 +11,4 @@ Features :
 5. User-friendly and intuitive interface
 6. Leaderboard to track player scores
 
-https://github.com/techysanoj/skribblay/blob/main/frontend/public/homescreen.png<img width="2868" height="1446" alt="image" src="https://github.com/user-attachments/assets/53f03cfe-a316-43a7-b624-63d203899d7d" />
+https://github.com/anushka/skribblay/blob/main/frontend/public/homescreen.png<img width="2868" height="1446" alt="image" src="https://github.com/user-attachments/assets/53f03cfe-a316-43a7-b624-63d203899d7d" />

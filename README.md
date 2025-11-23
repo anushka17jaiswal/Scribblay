@@ -12,7 +12,7 @@ Features :
 6. Leaderboard to track player scores
 
 screenshots :
-https://github.com/anushka/skribblay/blob/main/frontend/public/homescreen.png<img width="2868" height="1446" alt="image" src="https://github.com/user-attachments/assets/53f03cfe-a316-43a7-b624-63d203899d7d" />
-https://github.com/anushka/skribblay/blob/main/frontend/public/drawscreen.png<img width="2868" height="1500" alt="image" src="https://github.com/user-attachments/assets/6b155b51-51b1-4e51-a954-b5ea97dcfc02" />
-https://github.com/anushka/skribblay/blob/main/frontend/public/palyscreen.png<img width="2868" height="1446" alt="image" src="https://github.com/user-attachments/assets/e731d865-f1c8-4435-9105-77dca8c52336" />
+<img width="2868" height="1446" alt="image" src="https://github.com/user-attachments/assets/53f03cfe-a316-43a7-b624-63d203899d7d" />
+<img width="2868" height="1500" alt="image" src="https://github.com/user-attachments/assets/6b155b51-51b1-4e51-a954-b5ea97dcfc02" />
+<img width="2868" height="1446" alt="image" src="https://github.com/user-attachments/assets/e731d865-f1c8-4435-9105-77dca8c52336" />
 
